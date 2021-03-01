@@ -1,0 +1,13 @@
+{
+  "Id": "ECCLibrary",
+  "DisplayName": "Eel's Creature Creator",
+  "Author": "Lee23",
+  "Version": "1.1.0",
+  "Requires": [ ],
+  "Enable": true,
+"VersionDependencies": {
+    "SMLHelper": "2.9"
+  },
+  "Game": "Subnautica",
+  "AssemblyName": "ECCLibrary.dll"
+}
